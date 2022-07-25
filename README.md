@@ -19,11 +19,10 @@ We were ask to build an app using Node.js command-line application. Our task was
 * [License](#license
 
 ## Links:
-Github Repository:
-    *https://github.com/
-    *https://github.com 
-    *Video Demo (Github):
-    * https://github.....*
+* Github Repository:
+    * https://github.com/kiira2125
+    * [![image:](.//Dist/Assets/assets/images/Capture.JPG)](http://127.0.0.1:5501/Dist/Assets/index.html)  
+    
 ## Installation list:
 * Sopy the repository to one's system
 * Run npm install

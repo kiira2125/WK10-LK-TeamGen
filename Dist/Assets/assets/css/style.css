@@ -3,82 +3,50 @@
 	margin: 0;
 	padding: 0;
 	/* Link Font Family */
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Popping', 'Franklin Gothic Medium';
 }
 
-/* .bannerContainer {
-    background: repeating-linear-gradient(
-    45deg,
-    #fff,
-    red 10px,
-    #fff 10px,
-    red 20px
-);
-} */
-
 .bannerContainer {
-    background: #555190;
+    background: #01706d;
 }
 
 .banner {
     text-align: center;
-    padding: 20px;
-    color: #fff;
+    padding: 22px;
+    color: rgb(142, 229, 245);
 }
-
-/* .employee-card {
-    border-radius: 5px;
-    border: 1px solid #000;
-    width: 30%;
-    margin-top: 30px;
-
-} */
 
 .employee-card {
     margin: 1em;
-    max-width: 280px;
-    width: 90%;
-    min-height: 16rem;
+    max-width: 285px;
+    width: 92%;
+    min-height: 15rem;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.7);
-    border: none;
+    box-shadow: 5px 5px 9px rgba(0, 0, 0, 0.912);
+    border: 1px;
   }
 
   .teamInfo {
     max-width: 1000px;
-    margin: 3em auto;
+    margin: 3.5em auto;
     flex-wrap: wrap;
   }
 
-/* .teamInfo {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    justify-content: space-evenly;
-    align-items: center;
-    margin-top: 20px;
-} */
-
 .card-header {
-    background: #D9D8E9;
-    line-height: 2em;
-    padding-left: 5px;
-    padding: 10px 5px;
+    background: #c9c5fe;
+    line-height: 2.7em;
+    padding-left: 65px;
+    padding: 11px 6px;
 }
-
-/* .cardBody {
-    padding: 10px;
-    line-height: 1.5em;
-} */
 
 .card-body {
     display: flex;
     padding: 10px;
     flex-direction: column;
     justify-content: center;
-    background-color: #f6f7f8;
+    background-color: #e2e9f1;
   }
 
 ul {
