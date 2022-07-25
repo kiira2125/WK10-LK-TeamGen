@@ -1,0 +1,86 @@
+/* Universal Selector */
+* {
+	margin: 0;
+	padding: 0;
+	/* Link Font Family */
+	font-family: 'Poppins', sans-serif;
+}
+
+/* .bannerContainer {
+    background: repeating-linear-gradient(
+    45deg,
+    #fff,
+    red 10px,
+    #fff 10px,
+    red 20px
+);
+} */
+
+.bannerContainer {
+    background: #555190;
+}
+
+.banner {
+    text-align: center;
+    padding: 20px;
+    color: #fff;
+}
+
+/* .employee-card {
+    border-radius: 5px;
+    border: 1px solid #000;
+    width: 30%;
+    margin-top: 30px;
+
+} */
+
+.employee-card {
+    margin: 1em;
+    max-width: 280px;
+    width: 90%;
+    min-height: 16rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.7);
+    border: none;
+  }
+
+  .teamInfo {
+    max-width: 1000px;
+    margin: 3em auto;
+    flex-wrap: wrap;
+  }
+
+/* .teamInfo {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 20px;
+} */
+
+.card-header {
+    background: #D9D8E9;
+    line-height: 2em;
+    padding-left: 5px;
+    padding: 10px 5px;
+}
+
+/* .cardBody {
+    padding: 10px;
+    line-height: 1.5em;
+} */
+
+.card-body {
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #f6f7f8;
+  }
+
+ul {
+    list-style: none;
+}
