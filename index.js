@@ -31,7 +31,6 @@ const allIDs = [];
 },
 
 {
-
     type: 'input',
     name: 'id',
     message: `Enter Manager's ID Number please`,
