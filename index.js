@@ -61,7 +61,6 @@ const allIDs = [];
 },
 
 {
-
     type: 'input',
     name: 'office No.',
     message: `Enter Manager's office number:`,
